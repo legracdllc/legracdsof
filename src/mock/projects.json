@@ -1,0 +1,38 @@
+[
+  {
+    "id": "proj_adalberto",
+    "name": "Adalberto 3 Plex Trailer Conversion",
+    "clientId": "cli_adalberto",
+    "status": "Active",
+    "jobAddress": "700 Rice Ave, Eagle Lake, Texas, 77434",
+    "jobPhone": "346 213 1203",
+    "apptDate": "2023-11-15",
+    "budgetTotal": 80750,
+    "revenue": 118875,
+    "customerPaid": 0,
+    "reminder": "Payment schedule does not match subtotal (intentional).",
+    "timeline": [
+      { "id": "tl_a1", "at": "2023-11-15", "title": "Initial site visit", "status": "Done", "notes": "" },
+      { "id": "tl_a2", "at": "2023-11-18", "title": "Demolition & prep", "status": "In Progress", "notes": "" },
+      { "id": "tl_a3", "at": "2023-11-25", "title": "Framing & rough-in", "status": "Planned", "notes": "" },
+      { "id": "tl_a4", "at": "2023-12-02", "title": "Drywall & finishes", "status": "Planned", "notes": "" }
+    ]
+  },
+  {
+    "id": "proj_mock_002",
+    "name": "Kitchen Refresh ",
+    "clientId": "cli_spences",
+    "status": "Planning",
+    "jobAddress": "Eagle Lake, TX",
+    "jobPhone": "",
+    "apptDate": "2024-02-01",
+    "budgetTotal": 25000,
+    "revenue": 34000,
+    "customerPaid": 10000,
+    "reminder": "",
+    "timeline": [
+      { "id": "tl_k1", "at": "2024-02-01", "title": "Design & selections", "status": "Planned", "notes": "" },
+      { "id": "tl_k2", "at": "2024-02-05", "title": "Material ordering", "status": "Planned", "notes": "" }
+    ]
+  }
+]

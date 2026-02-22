@@ -1,0 +1,19 @@
+[
+  {
+    "id": "item_001",
+    "invoiceId": "inv_324",
+    "qty": 3,
+    "itemNo": "001-Apt #1 4110",
+    "description": "Apt #1 4110",
+    "unitPrice": 34875
+  },
+  {
+    "id": "item_002",
+    "invoiceId": "inv_324",
+    "qty": 1,
+    "itemNo": "002-Exterior Trailer Remodeling",
+    "description": "Exterior Trailer Remodeling",
+    "unitPrice": 14250
+  }
+]
+

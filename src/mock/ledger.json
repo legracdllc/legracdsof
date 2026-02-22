@@ -1,0 +1,17 @@
+[
+  {
+    "projectId": "proj_adalberto",
+    "homeDepotLowes": [
+      { "id": "hdl_1", "item": "Drywall + compound", "total": 1865.42 },
+      { "id": "hdl_2", "item": "Fasteners", "total": 214.19 }
+    ],
+    "amazon": [
+      { "id": "amz_1", "item": "Lighting fixtures", "total": 392.88 }
+    ],
+    "subContractor": [
+      { "id": "sub_1", "job": "Electrical rough-in", "cost": 2800, "paid": 1500, "reminder": "Balance after inspection" },
+      { "id": "sub_2", "job": "Plumbing", "cost": 2200, "paid": 0, "reminder": "Schedule ASAP" }
+    ]
+  }
+]
+

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "inv_324",
+    "projectId": "proj_adalberto",
+    "invoiceNo": "324",
+    "type": "Estimate",
+    "status": "Draft",
+    "salesperson": "Celso Legra",
+    "job": "3 Plex Trailer Conversion",
+    "shippingMethod": "N/A",
+    "shippingTerms": "N/A",
+    "deliveryDate": "2023-12-01",
+    "paymentTerms": "Per schedule",
+    "dueDate": "2023-12-01",
+    "discount": 38125
+  }
+]
+

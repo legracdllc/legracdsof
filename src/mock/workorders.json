@@ -1,0 +1,22 @@
+[
+  {
+    "id": "wo_001",
+    "projectId": "proj_adalberto",
+    "title": "Week 1: Demo + Rough-in",
+    "status": "In Progress",
+    "priority": "High",
+    "startDate": "2023-11-15",
+    "endDate": "2023-11-19",
+    "assignedTo": ["Celso", "Crew A"],
+    "checklist": [
+      { "id": "c1", "text": "Demo old interior", "done": true },
+      { "id": "c2", "text": "Frame partition walls", "done": false },
+      { "id": "c3", "text": "Electrical rough-in", "done": false }
+    ],
+    "notes": [
+      { "id": "n1", "at": "2023-11-15T10:00:00Z", "author": "Admin", "text": "Kickoff confirmed for 11/15." }
+    ],
+    "media": []
+  }
+]
+

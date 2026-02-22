@@ -1,0 +1,38 @@
+[
+  {
+    "id": "pkg_studio_basic",
+    "name": "Studio Conversion - Basic",
+    "specifications": "Entry-level finishes, standard electrical/plumbing scope.",
+    "includes": "Drywall, paint, basic plumbing fixtures, basic electrical package.",
+    "archivedAt": null,
+    "items": [
+      {
+        "id": "pitem_1",
+        "itemNo": "PKG-001",
+        "description": "Drywall and finish package",
+        "qty": 1,
+        "unitPrice": 4200,
+        "kind": "Material",
+        "inventoryItemId": "inv_drywall_half_4x8"
+      },
+      {
+        "id": "pitem_2",
+        "itemNo": "PKG-002",
+        "description": "Electrical rough-in and fixtures",
+        "qty": 1,
+        "unitPrice": 2900,
+        "kind": "Material",
+        "inventoryItemId": "inv_elec_romex_12_2_250ft"
+      },
+      {
+        "id": "pitem_3",
+        "itemNo": "PKG-003",
+        "description": "Labor crew - framing and install",
+        "qty": 1,
+        "unitPrice": 3600,
+        "kind": "Labor",
+        "inventoryItemId": null
+      }
+    ]
+  }
+]

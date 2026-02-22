@@ -1,0 +1,10 @@
+[
+  {
+    "invoiceId": "inv_324",
+    "downPayment": 750,
+    "secondPayment": 20000,
+    "thirdPayment": 20000,
+    "finalPayment": 40000
+  }
+]
+

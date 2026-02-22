@@ -1,0 +1,19 @@
+[
+  {
+    "id": "emp_celso",
+    "name": "Celso (Admin)",
+    "role": "Admin",
+    "phone": "",
+    "email": "admin@legra.mock",
+    "active": true
+  },
+  {
+    "id": "emp_contractor_1",
+    "name": "Contractor A ",
+    "role": "Contractor",
+    "phone": "",
+    "email": "",
+    "active": true
+  }
+]
+
